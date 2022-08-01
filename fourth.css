@@ -1,0 +1,88 @@
+.navbar-brand img {
+  width: 45px;
+  margin-right: 5px;
+}
+.nxt-img {
+  width: 100%;
+}
+.para-container {
+  height: 90vh;
+  justify-content: center;
+  display: flex;
+}
+.first-part h1 {
+  font-weight: 700;
+  font-size: 60px;
+  width: 95%;
+}
+.first-part p {
+  margin: 45px 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.custom-dark-btn {
+  display: inline-block;
+  padding: 10px 0;
+  text-align: center;
+  width: 145px;
+  outline: none;
+  color: #f7f7f7;
+  border: 1px solid transparent;
+  background-color: #000000;
+}
+.custom-orange-btn {
+  display: inline-block;
+  padding: 10px 0;
+  text-align: center;
+  width: 145px;
+  outline: none;
+  color: #f7f7f7;
+  border: 1px solid transparent;
+  background-color: #fc5d35;
+}
+.custom-heading {
+  text-align: center;
+  font-weight: bold;
+}
+.custom-heading-text {
+  text-align: center;
+}
+.layout-padding2 {
+  padding: 45px 0;
+}
+.card-img-top {
+  width: 50px;
+  margin: 55px auto 5px auto;
+}
+.card-title {
+  color: #fc5d35;
+}
+.card {
+  text-align: center;
+  box-sizing: border-box;
+  position: relative;
+}
+.tasty-section {
+  width: 100%;
+  height: 500px;
+  background-image: url(./tasty-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tasty-section h2 {
+  font-size: 125px;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.layout-padding {
+  padding: 75px 0;
+}
+.client_img-box {
+  width: 350px;
+}
